@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/WebCache/v14
+/.vs/restore.dg
+/WebCache/bin/Debug/netcoreapp1.1
+/WebCache/obj/Debug/netcoreapp1.1
+/WebCache/wwwroot/lib
+/redis-server.exe
+/WebCache/WebCache.xproj.user
+/WebCache/project.lock.json
