@@ -1,0 +1,506 @@
+[
+    {
+        "Id": 0,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/1772973596/inogiclogo_normal.png",
+        "ProfileDescription": "Microsoft Partner with Gold Competency in #Dynamics365 #MSDynCRM providing Solns/Services. Innovators of @Maplytics & Inolink #QuickBooks Int #MSDyn365 #MVPBuzz",
+        "Username": "Inogic",
+        "Text": "Execute the Global Action Using Web API in Dynamics CRM https://t.co/DAuzP6L7FE #MSDyn365 #webapi https://t.co/v0XgyotaFn",
+        "ScreenName": "@inogic"
+    },
+    {
+        "Id": 1,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/655641398620753920/dEgZhU9i_normal.jpg",
+        "ProfileDescription": "i love people whose is respectfull......",
+        "Username": "Cheeku Chauhan",
+        "Text": "RT @CarmenAlastair: #WebAPI with #AngularJS by @SibeeshVenu https://t.co/b7qtUnQRCg cc @CsharpCorner",
+        "ScreenName": "@naveenc860"
+    },
+    {
+        "Id": 2,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/767947664964988929/L3GTyY9R_normal.jpg",
+        "ProfileDescription": "Senior Network Engineer in Cisco",
+        "Username": "Alastair Carmen",
+        "Text": "#WebAPI with #AngularJS by @SibeeshVenu https://t.co/b7qtUnQRCg cc @CsharpCorner",
+        "ScreenName": "@CarmenAlastair"
+    },
+    {
+        "Id": 3,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/800046371441090560/Mj_Eokf6_normal.jpg",
+        "ProfileDescription": "#developer \u00b7 #mstfcck \u00b7 https://t.co/dbLEn08OOj",
+        "Username": "Mustafa \u00c7i\u00e7ek",
+        "Text": "RT @CsharpCorner: Dapper And Repository Pattern In #WebAPI by @mahiaptech cc @CsharpCorner https://t.co/k3alMVo5sS #CsharpCorner https://t.\u2026",
+        "ScreenName": "@mstfcck"
+    },
+    {
+        "Id": 4,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/806861157143343104/f2LUR13T_normal.jpg",
+        "ProfileDescription": "Everything MERN stack. Tweets from #mongodb #expressjs #reactjs #nodejs",
+        "Username": "MERN Stack News",
+        "Text": "RT @ScripttheWeb: Create #WebAPI Using #Nodejs &amp; #MySQL by @jinalshah999 via @CsharpCorner https://t.co/XEIpwEcltV https://t.co/jx6XTCLsBu",
+        "ScreenName": "@mernstacktweet"
+    },
+    {
+        "Id": 5,
+        "ProfileImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "ProfileDescription": "The Daily Web is a Twitter bot to retweet the best web-related tweets.",
+        "Username": "The Daily Web",
+        "Text": "RT @uncle_dallas: Single Page Application (#SPA) for Enterprise App (#Angular2 &amp; #WebApi) via @codeproject https://t.co/Hcdj0Fvqzt #csharp\u2026",
+        "ScreenName": "@TheDaily_Web"
+    },
+    {
+        "Id": 6,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/774199936971866112/JHiaSCxS_normal.jpg",
+        "ProfileDescription": "Freelance Consultant, #Aspnet & #Xamarin Dev, Trainer, Team & Project Manager, @Nopcommerce Expert and finally Blogger when I do not have hands full",
+        "Username": "Marco Dalla Libera",
+        "Text": "Single Page Application (#SPA) for Enterprise App (#Angular2 &amp; #WebApi) via @codeproject https://t.co/Hcdj0Fvqzt\u2026 https://t.co/t7T2sAuLYL",
+        "ScreenName": "@uncle_dallas"
+    },
+    {
+        "Id": 7,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/744942052937347072/GEX7lhWT_normal.jpg",
+        "ProfileDescription": "https://t.co/USsr1xfHbL developer",
+        "Username": "Mohan",
+        "Text": "RT @CsharpCorner: How to Create #WebAPI in #ASPNet #MVC by @saihacksoft cc @CsharpCorner https://t.co/1rY1CfVyQx #AspNetMvc https://t.co/Nf\u2026",
+        "ScreenName": "@mohantejaG"
+    },
+    {
+        "Id": 8,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/752842763750735872/bcLn6SWS_normal.jpg",
+        "ProfileDescription": "",
+        "Username": "Keshav Beniwal",
+        "Text": "RT @CsharpCorner: Create &amp; Consume #MVC #CRUD #WebAPI In #SharePoint 2016 - Part 2 by @kspriyaranjan https://t.co/9EjbghPXu5 https://t.co/B\u2026",
+        "ScreenName": "@cheekuc"
+    },
+    {
+        "Id": 9,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/783267530144030720/2-afjLkN_normal.jpg",
+        "ProfileDescription": "A-Z Tweets from #nodejs #mongodb #angularjs #MeanStack #Ionic | \nCreated by @amanhimself",
+        "Username": "MEAN Stack News",
+        "Text": "RT @blacklambs_wms: Single Page Application (SPA) for Enterprise App (#AngularJS &amp; #WebAPI) https://t.co/tXA0u6mj7o",
+        "ScreenName": "@nodejstweet"
+    },
+    {
+        "Id": 10,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/433773041730871296/EtwBAm0G_normal.png",
+        "ProfileDescription": "We are a wild team of creative and talented developers who have a great passion for the internet and mobile universe.",
+        "Username": "Blacklambs",
+        "Text": "Single Page Application (SPA) for Enterprise App (#AngularJS &amp; #WebAPI) https://t.co/tXA0u6mj7o",
+        "ScreenName": "@blacklambs_wms"
+    },
+    {
+        "Id": 11,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/601645996360138752/JXX6TiZa_normal.png",
+        "ProfileDescription": "C# Corner: A social community for developers and programmers.",
+        "Username": "C# Corner",
+        "Text": "Create &amp; Consume #MVC #CRUD #WebAPI In #SharePoint 2016 - Part 2 by @kspriyaranjan https://t.co/9EjbghPXu5 https://t.co/B1pPF0iHat",
+        "ScreenName": "@CsharpCorner"
+    },
+    {
+        "Id": 12,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/1772973596/inogiclogo_normal.png",
+        "ProfileDescription": "Microsoft Partner with Gold Competency in #Dynamics365 #MSDynCRM providing Solns/Services. Innovators of @Maplytics & Inolink #QuickBooks Int #MSDyn365 #MVPBuzz",
+        "Username": "Inogic",
+        "Text": "WebAPI or SOAP?&gt; All about the new #WebAPI in @MSFTDynamics CRM 2016 \nhttps://t.co/4XaGwmeuip #MSDynCRM #webapi https://t.co/C2nee3DeID",
+        "ScreenName": "@inogic"
+    },
+    {
+        "Id": 13,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/601645996360138752/JXX6TiZa_normal.png",
+        "ProfileDescription": "C# Corner: A social community for developers and programmers.",
+        "Username": "C# Corner",
+        "Text": "How to Create #WebAPI in #ASPNet #MVC by @saihacksoft cc @CsharpCorner https://t.co/1rY1CfVyQx #AspNetMvc https://t.co/Nf7G7U7n0a",
+        "ScreenName": "@CsharpCorner"
+    },
+    {
+        "Id": 14,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/716294559605501952/_uQK36e4_normal.jpg",
+        "ProfileDescription": "#UWP #developer, #Windows enthusiast, #WindowsInsider, #Xamarin #developer and #webmaster. I see the world in code.",
+        "Username": "The Klingon",
+        "Text": "RT @CsharpCorner: Create &amp; Consume #MVC #CRUD #WebAPI In #SharePoint 2016 - Part 1 by @kspriyaranjan https://t.co/gM97HdQFEl https://t.co/U\u2026",
+        "ScreenName": "@TheKlingon_"
+    },
+    {
+        "Id": 15,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/601645996360138752/JXX6TiZa_normal.png",
+        "ProfileDescription": "C# Corner: A social community for developers and programmers.",
+        "Username": "C# Corner",
+        "Text": "Create &amp; Consume #MVC #CRUD #WebAPI In #SharePoint 2016 - Part 1 by @kspriyaranjan https://t.co/gM97HdQFEl https://t.co/UrYTiGpbqG",
+        "ScreenName": "@CsharpCorner"
+    },
+    {
+        "Id": 16,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/807597557887008771/os9kmY-0_normal.jpg",
+        "ProfileDescription": "Software Engineer, @Microsoft MVP, @CsharpCorner MVP, @DZone MVB, @CodeProject ian. Engineer by profession and Writer by passion. #VisualStudio #AspNet #MVC",
+        "Username": "Sibeesh Venu",
+        "Text": "RT @uncle_dallas: #WebAPI With #AngularJS https://t.co/HITlPw9vGI by @SibeeshVenu via @CsharpCorner #csharp https://t.co/ZrCpJ4ISjD",
+        "ScreenName": "@SibeeshVenu"
+    },
+    {
+        "Id": 17,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/764011855031312386/Ie_mvbKd_normal.jpg",
+        "ProfileDescription": "#ComputerEngineerMSc #Akbank #SeniorSoftwareDeveloper #Entrepreneur #Blogger #SharePoint #MCT #Startup #IoT\nhttps://t.co/Dp2Z9IQ41N",
+        "Username": "Turhal Temizer",
+        "Text": "Publishing #ASP.NET #WebAPI REST Service Using File System Method https://t.co/gbzU86nUZc #rest",
+        "ScreenName": "@turhaltemizer"
+    },
+    {
+        "Id": 18,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/739891599/Copy_of_DSC_4236_copy_normal.jpg",
+        "ProfileDescription": "",
+        "Username": "Kshitij Dhalgaonkar",
+        "Text": "RT @CsharpCorner: #WebAPI With #AngularJS by @SibeeshVenu cc @CsharpCorner https://t.co/ZhIPvc93lw #Angular #CRUDoperations https://t.co/9G\u2026",
+        "ScreenName": "@kdhalgaonkar"
+    },
+    {
+        "Id": 19,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/752842763750735872/bcLn6SWS_normal.jpg",
+        "ProfileDescription": "",
+        "Username": "Keshav Beniwal",
+        "Text": "RT @dbeniwal21: #ServerSide Paging In #KendoGrid For #Angular2 Using #ASPNET #WebAPI by @gowthamkk7 https://t.co/4JKqn6n5RQ https://t.co/Us\u2026",
+        "ScreenName": "@cheekuc"
+    },
+    {
+        "Id": 20,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/774199936971866112/JHiaSCxS_normal.jpg",
+        "ProfileDescription": "Freelance Consultant, #Aspnet & #Xamarin Dev, Trainer, Team & Project Manager, @Nopcommerce Expert and finally Blogger when I do not have hands full",
+        "Username": "Marco Dalla Libera",
+        "Text": "#WebAPI With #AngularJS https://t.co/HITlPw9vGI by @SibeeshVenu via @CsharpCorner #csharp https://t.co/ZrCpJ4ISjD",
+        "ScreenName": "@uncle_dallas"
+    },
+    {
+        "Id": 21,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/470178148039274496/iaCc1RNn_normal.jpeg",
+        "ProfileDescription": "A software developer who is also mad on history, rugby, cooking and retro gaming!",
+        "Username": "Peter Welch",
+        "Text": "WebHooks V1 for ASP .NET extend your applications with more robust webapi's https://t.co/8mCRWkZfqg #webhooks #webapi #api #services #SaaS",
+        "ScreenName": "@PeterGWelch"
+    },
+    {
+        "Id": 22,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/1677165910/Levelnis_graphic32_normal.jpg",
+        "ProfileDescription": "Want to launch websites into the cloud with ease? Get my top 5 resources for automating website deployments using BitBucket and Azure: https://t.co/acHxaTTdcm",
+        "Username": "Simon Rigby",
+        "Text": "Retweeted Darren Kingam (@kgmBits):\n\nUsing #DataTables with #WebAPI Part 4: Re-use\nhttps://t.co/I54Nrg09Rj via... https://t.co/kp2jbaD4Zu",
+        "ScreenName": "@levelnis"
+    },
+    {
+        "Id": 23,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/1677165910/Levelnis_graphic32_normal.jpg",
+        "ProfileDescription": "Want to launch websites into the cloud with ease? Get my top 5 resources for automating website deployments using BitBucket and Azure: https://t.co/acHxaTTdcm",
+        "Username": "Simon Rigby",
+        "Text": "RT @kgmBits: Using #DataTables with #WebAPI Part 4: Re-use\nhttps://t.co/0GudGsimiV via @levelnis",
+        "ScreenName": "@levelnis"
+    },
+    {
+        "Id": 24,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/805006806934323200/KxEGjbqo_normal.jpg",
+        "ProfileDescription": "#Innovation #VR #IoT #AI #BigData #Cloud #StartUP #SocialMedia |Top50 #datasecurity #M2M #Blockchain #SMM #ITSM #Connected Home influencer #InsurTech|#i4Emploi",
+        "Username": "ArkangelScrap",
+        "Text": "RT @DBaker007: Return #JSON Response instead of #XML from #WebAPI via @dotnetsnippets https://t.co/9IxsdlFlbU #aspnet",
+        "ScreenName": "@ArkangelScrap"
+    },
+    {
+        "Id": 25,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/613317207121006593/fBJIw92n_normal.jpg",
+        "ProfileDescription": "IT Consultant #IT #bigdata #analytics #cloud #edtech #K12 #IoT #datagov #MDM #datascience\nTweets are my opinions, not the official position of my employer.",
+        "Username": "Duane Baker",
+        "Text": "Return #JSON Response instead of #XML from #WebAPI via @dotnetsnippets https://t.co/9IxsdlFlbU #aspnet",
+        "ScreenName": "@DBaker007"
+    },
+    {
+        "Id": 26,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/792204338521317376/SaLqqEtQ_normal.jpg",
+        "ProfileDescription": "Licenciado en Sistemas. Programador .NET y Genexus X Evolution 3. Miembro de la Comisi\u00f3n de Egresados de Carreras de Inform\u00e1tica - http://t.co/1CynjVzTkn",
+        "Username": "Pedro Ren\u00e9 Gonz\u00e1lez",
+        "Text": "RT @CsharpCorner: Upload Large Files To #MVC / #WebAPI Using Partitioning cc @ajsondev @CsharpCorner https://t.co/SgXk028R52 #AspNet https:\u2026",
+        "ScreenName": "@PedroReneG"
+    },
+    {
+        "Id": 27,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/737441201935224832/PHX-SpDD_normal.jpg",
+        "ProfileDescription": "",
+        "Username": "nodejs",
+        "Text": "RT @manumeyer1: Aleks uses every cool technology with #azure #servicefabric: #Xamarin, #webapi, #nodejs, #mongodb, #tablestorage and #power\u2026",
+        "ScreenName": "@nodejsdigest"
+    },
+    {
+        "Id": 28,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/699152460162719744/Qyk9jTPC_normal.jpg",
+        "ProfileDescription": ".NET Enthusiast/Programmer/Trainer @Trivadis, https://t.co/XACj62gBNf, \nMicrosoft MVP, father of 3. Likes metal music, technology, self improvement and MMA.",
+        "Username": "Manuel Meyer",
+        "Text": "Aleks uses every cool technology with #azure #servicefabric: #Xamarin, #webapi, #nodejs, #mongodb, #tablestorage an\u2026 https://t.co/KV79EPpSvc",
+        "ScreenName": "@manumeyer1"
+    },
+    {
+        "Id": 29,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/774199936971866112/JHiaSCxS_normal.jpg",
+        "ProfileDescription": "Freelance Consultant, #Aspnet & #Xamarin Dev, Trainer, Team & Project Manager, @Nopcommerce Expert and finally Blogger when I do not have hands full",
+        "Username": "Marco Dalla Libera",
+        "Text": "Upload Large Files To #MVC / #WebAPI Using Partitioning https://t.co/jGhClKJUpj by @ajsondev via @CsharpCorner\u2026 https://t.co/rucOv9xY0x",
+        "ScreenName": "@uncle_dallas"
+    },
+    {
+        "Id": 30,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/810009658320515072/mUYya5TF_normal.jpg",
+        "ProfileDescription": "C# Corner- social media, Chapters, Conferences, Manager, content and marketing",
+        "Username": "Dinesh Beniwal",
+        "Text": "#ServerSide Paging In #KendoGrid For #Angular2 Using #ASPNET #WebAPI by @gowthamkk7 https://t.co/4JKqn6n5RQ https://t.co/Us96OEgru9",
+        "ScreenName": "@dbeniwal21"
+    },
+    {
+        "Id": 31,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/601645996360138752/JXX6TiZa_normal.png",
+        "ProfileDescription": "C# Corner: A social community for developers and programmers.",
+        "Username": "C# Corner",
+        "Text": "#WebAPI With #AngularJS by @SibeeshVenu cc @CsharpCorner https://t.co/ZhIPvc93lw #Angular #CRUDoperations https://t.co/9GP4Jb1dPg",
+        "ScreenName": "@CsharpCorner"
+    },
+    {
+        "Id": 32,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/781131051947192320/yxdMD2sI_normal.jpg",
+        "ProfileDescription": "Computer Science Student",
+        "Username": "Melch-Hepta",
+        "Text": "RT @CsharpCorner: #ServerSide Paging In #KendoGrid For #Angular2 Using #ASPNET #WebAPI by @gowthamkk7 https://t.co/APYWjht6Kj https://t.co/\u2026",
+        "ScreenName": "@IbaMelch"
+    },
+    {
+        "Id": 33,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/708631138407940096/M0Ucjylz_normal.jpg",
+        "ProfileDescription": "My ideas are not in the Cloud but I certainly offer many services; DevOps, Consulting, Mentoring, Linux, Docker, scalable systems and curator for Outlearn.",
+        "Username": "HokstadConsulting",
+        "Text": "RT @chrisrng: Learn how to handle blobs and use some cool Web APIs &gt;&gt; https://t.co/mVQtBVUATa #js #javascript #webapi #frontend #webdev #pr\u2026",
+        "ScreenName": "@HokstadConsult"
+    },
+    {
+        "Id": 34,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/790550706885431296/ODDpUnHH_normal.jpg",
+        "ProfileDescription": "Full stack developer specializing in CSS and JavaScript, always looking to collaborate!",
+        "Username": "Chris Ng",
+        "Text": "Learn how to handle blobs and use some cool Web APIs &gt;&gt; https://t.co/mVQtBVUATa #js #javascript #webapi #frontend #webdev #programming #blob",
+        "ScreenName": "@chrisrng"
+    },
+    {
+        "Id": 35,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/601645996360138752/JXX6TiZa_normal.png",
+        "ProfileDescription": "C# Corner: A social community for developers and programmers.",
+        "Username": "C# Corner",
+        "Text": "#ServerSide Paging In #KendoGrid For #Angular2 Using #ASPNET #WebAPI by @gowthamkk7 https://t.co/APYWjht6Kj https://t.co/DgsPlsNf7k",
+        "ScreenName": "@CsharpCorner"
+    },
+    {
+        "Id": 36,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/671623862916812800/yGsDKiP4_normal.jpg",
+        "ProfileDescription": "Daily #Technology Issues & solutions: The height quality on going #Technology events, #news and #information through. Stay connected &  keep updated yourself.",
+        "Username": "Daily Tech Issues",
+        "Text": "#WebApi service call authentication with WS-Federation and SAML\n#Tech #News #HowTo\nhttps://t.co/X19CrpVrPq",
+        "ScreenName": "@AdamSmitht1"
+    },
+    {
+        "Id": 37,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/601645996360138752/JXX6TiZa_normal.png",
+        "ProfileDescription": "C# Corner: A social community for developers and programmers.",
+        "Username": "C# Corner",
+        "Text": "Upload Large Files To #MVC / #WebAPI Using Partitioning cc @ajsondev @CsharpCorner https://t.co/SgXk028R52 #AspNet https://t.co/id3sibYqUu",
+        "ScreenName": "@CsharpCorner"
+    },
+    {
+        "Id": 38,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/732467743916613633/7-8lu9oS_normal.jpg",
+        "ProfileDescription": "Husband | Father | Consultant @Microsoft | Technology Enthusiast | Web Addicted | Blogger | Scrum Master | Life Time Learner | Squash Player",
+        "Username": "Taiseer Joudeh",
+        "Text": "Hi @darrel_miller any best practices on posting large requests (~300KB) using HttpClient over mobile network? #webapi #aspnet thx in advance",
+        "ScreenName": "@TJoudeh"
+    },
+    {
+        "Id": 39,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/710465275754385410/FY81vUbv_normal.jpg",
+        "ProfileDescription": "Creative coder, problem solver, music lover, car enthusiast, entrepreneur. Director at KGM Octagon.",
+        "Username": "Darren Kingam",
+        "Text": "Using #DataTables with #WebAPI Part 4: Re-use\nhttps://t.co/0GudGsimiV via @levelnis",
+        "ScreenName": "@kgmBits"
+    },
+    {
+        "Id": 40,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/764011855031312386/Ie_mvbKd_normal.jpg",
+        "ProfileDescription": "#ComputerEngineerMSc #Akbank #SeniorSoftwareDeveloper #Entrepreneur #Blogger #SharePoint #MCT #Startup #IoT\nhttps://t.co/Dp2Z9IQ41N",
+        "Username": "Turhal Temizer",
+        "Text": "Performing #CRUD Operation Using #AngularJS And #WebAPI - https://t.co/jHX3xkMP9C #APIs #SoftwareDevelopment",
+        "ScreenName": "@turhaltemizer"
+    },
+    {
+        "Id": 41,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/1772973596/inogiclogo_normal.png",
+        "ProfileDescription": "Microsoft Partner with Gold Competency in #Dynamics365 #MSDynCRM providing Solns/Services. Innovators of @Maplytics & Inolink #QuickBooks Int #MSDyn365 #MVPBuzz",
+        "Username": "Inogic",
+        "Text": "Qualify Lead using Web API in Dynamics 365 https://t.co/SwBoldoR3W #MSDyn365 #webapi https://t.co/GQVtP933qq",
+        "ScreenName": "@inogic"
+    },
+    {
+        "Id": 42,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/567736647366610944/hhTLI6FV_normal.png",
+        "ProfileDescription": "Name is Lohith. production engg by education, software engg by profession. Tech Evangelist, Telerik India. Decade of industry experience. MS tech geek",
+        "Username": "kashyapa",
+        "Text": "The latest Kashyapas https://t.co/geHRL7O3uk Daily! https://t.co/gtQit7abcl Thanks to @jdanylko @EnricoAcampora #asp #webapi",
+        "ScreenName": "@kashyapa"
+    },
+    {
+        "Id": 43,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/802976662187114496/gif5G5oY_normal.jpg",
+        "ProfileDescription": "Software engineer | Consulting | Architect | Developer Expert: MCP, MCSD, MSSQL,BigData, AngularJS,TypeScript,Nodejs,Reactjs.Telerik&...",
+        "Username": "Nick",
+        "Text": "RT @techjunkiejh: Chart Widgets With Server Side Data In MVC Using #AngularJS And #WebAPI https://t.co/MfW9zi431f #javascript https://t.co/\u2026",
+        "ScreenName": "@Phunick"
+    },
+    {
+        "Id": 44,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/783267530144030720/2-afjLkN_normal.jpg",
+        "ProfileDescription": "A-Z Tweets from #nodejs #mongodb #angularjs #MeanStack #Ionic | \nCreated by @amanhimself",
+        "Username": "MEAN Stack News",
+        "Text": "RT @DBaker007: Charts In #AngularJS Using #WebAPI by @sourabh_mishra1 via @CsharpCorner https://t.co/WuVDEeqtJR #JavaScript https://t.co/BX\u2026",
+        "ScreenName": "@nodejstweet"
+    },
+    {
+        "Id": 45,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/1192150919/untitled_normal.jpg",
+        "ProfileDescription": "@AutodeskForge API Evangelist, playing with #3Dweb powered by #JavaScript & #NodeJS",
+        "Username": "Augusto Goncalves",
+        "Text": "Experimenting @AutodeskForge with #dotNET #CSharp and #WebAPI https://t.co/rFKmabz33c",
+        "ScreenName": "@augustomaia"
+    },
+    {
+        "Id": 46,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/439687619203452928/PiXFrACt_normal.jpeg",
+        "ProfileDescription": "Azure, Xamarin, Aurelia, EF and all the goodness. Science nerd, Atheist and golden rule follower...",
+        "Username": "Tony Drake",
+        "Text": "#WebAPI https://t.co/tbHadtB17J  Love open types - a new world of possibility opens....",
+        "ScreenName": "@tonydrake"
+    },
+    {
+        "Id": 47,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/803701503705935874/VQ58YGtG_normal.jpg",
+        "ProfileDescription": "C# Corner, Learner,  Microsoft Developer,\nvisual studio,",
+        "Username": "Harish Kumar",
+        "Text": "RT @OliviaFreyaa: Creating #WebAPI using #Nodejs and #mysql by @jinalshah999 https://t.co/rYDdmp4fZS cc @CsharpCorner",
+        "ScreenName": "@HarishK08566764"
+    },
+    {
+        "Id": 48,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/799203248892772352/LP2J0OrQ_normal.jpg",
+        "ProfileDescription": "Microsoft .NET Expert Software Architect at @Bravent, techy living in #Azure cloud and #MarvelSuperHeroes lover",
+        "Username": "Jose Luque",
+        "Text": "Generating #Swagger description metadata from your #ASP.NET #Core #WebAPI with Swashbuckle https://t.co/ZUCNdfrk0o",
+        "ScreenName": "@jluqueba"
+    },
+    {
+        "Id": 49,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/653506218875584512/griY8FGD_normal.jpg",
+        "ProfileDescription": "Blogger | Tutor | Artist\n#digitalmarketer",
+        "Username": "Vernon Emrit",
+        "Text": "RT techjunkiejh:Chart Widgets With Server Side Data In MVC Using #AngularJS And #WebAPI https://t.co/IqmXRP2EvE #\u2026 https://t.co/vQBOqsrgw1",
+        "ScreenName": "@vernonemrit"
+    },
+    {
+        "Id": 50,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/735475263593668608/O2LVRHNk_normal.jpg",
+        "ProfileDescription": "Business Development | Marketing | E-commerce | WordPress | Social Media | Retail Management",
+        "Username": "Hashim M Shaikh",
+        "Text": "RT techjunkiejh:Chart Widgets With Server Side Data In MVC Using #AngularJS And #WebAPI https://t.co/2jCylu0wYJ #\u2026 https://t.co/zXvxoIF953",
+        "ScreenName": "@TheShaikh2310"
+    },
+    {
+        "Id": 51,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/587160065536299009/9MBFPj6a_normal.png",
+        "ProfileDescription": "Experience and passionate software engineer, focus on .NET and Java EE technology, and front end development.  Practicer of unlearn principle. Always learning.",
+        "Username": "Tech Junkie",
+        "Text": "Chart Widgets With Server Side Data In MVC Using #AngularJS And #WebAPI https://t.co/MfW9zi431f #javascript https://t.co/ebzyQiowhN",
+        "ScreenName": "@techjunkiejh"
+    },
+    {
+        "Id": 52,
+        "ProfileImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "ProfileDescription": "",
+        "Username": "Virendra Beniwal",
+        "Text": "RT @DBaker007: Charts In #AngularJS Using #WebAPI by @sourabh_mishra1 via @CsharpCorner https://t.co/WuVDEeqtJR #JavaScript #CsharpCorner h\u2026",
+        "ScreenName": "@VirendraBeniwa3"
+    },
+    {
+        "Id": 53,
+        "ProfileImage": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "ProfileDescription": "The Daily Web is a Twitter bot to retweet the best web-related tweets.",
+        "Username": "The Daily Web",
+        "Text": "RT @DBaker007: Using #MongoDB with #WebAPI and #ASPNETCore by @maheshdotnet via @DotNetCurry https://t.co/USsHTBZDdy #MVC https://t.co/Yg6W\u2026",
+        "ScreenName": "@TheDaily_Web"
+    },
+    {
+        "Id": 54,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/781721618024312833/j5oO0ulW_normal.jpg",
+        "ProfileDescription": "Business development in medicine Patent Pool",
+        "Username": "Freya Olivia",
+        "Text": "Creating #WebAPI using #Nodejs and #mysql by @jinalshah999 https://t.co/rYDdmp4fZS cc @CsharpCorner",
+        "ScreenName": "@OliviaFreyaa"
+    },
+    {
+        "Id": 55,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/613317207121006593/fBJIw92n_normal.jpg",
+        "ProfileDescription": "IT Consultant #IT #bigdata #analytics #cloud #edtech #K12 #IoT #datagov #MDM #datascience\nTweets are my opinions, not the official position of my employer.",
+        "Username": "Duane Baker",
+        "Text": "Charts In #AngularJS Using #WebAPI by @sourabh_mishra1 via @CsharpCorner https://t.co/WuVDEeqtJR #JavaScript https://t.co/BXrhisZ8KD",
+        "ScreenName": "@DBaker007"
+    },
+    {
+        "Id": 56,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/777590974579171331/G4Unw2by_normal.jpg",
+        "ProfileDescription": "Passionate Web Developer",
+        "Username": "Tobias Scharikow",
+        "Text": "RT @DBaker007: Creating #WebAPI Using #NodeJS and #MySQL by @jinalshah999 via @CsharpCorner https://t.co/N23X7YqYy8 #JavaScript https://t.c\u2026",
+        "ScreenName": "@_refuse2choose_"
+    },
+    {
+        "Id": 57,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/601645996360138752/JXX6TiZa_normal.png",
+        "ProfileDescription": "C# Corner: A social community for developers and programmers.",
+        "Username": "C# Corner",
+        "Text": "Dapper And Repository Pattern In #WebAPI by @mahiaptech cc @CsharpCorner https://t.co/k3alMVo5sS #CsharpCorner https://t.co/K9auXE3L9x",
+        "ScreenName": "@CsharpCorner"
+    },
+    {
+        "Id": 58,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/613317207121006593/fBJIw92n_normal.jpg",
+        "ProfileDescription": "IT Consultant #IT #bigdata #analytics #cloud #edtech #K12 #IoT #datagov #MDM #datascience\nTweets are my opinions, not the official position of my employer.",
+        "Username": "Duane Baker",
+        "Text": "#Chart Widgets With Server Side #Data In #MVC Using #AngularJS and #WebAPI via @codeproject https://t.co/k2jUJtw7U3  #devs #JavaScript",
+        "ScreenName": "@DBaker007"
+    },
+    {
+        "Id": 59,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/613317207121006593/fBJIw92n_normal.jpg",
+        "ProfileDescription": "IT Consultant #IT #bigdata #analytics #cloud #edtech #K12 #IoT #datagov #MDM #datascience\nTweets are my opinions, not the official position of my employer.",
+        "Username": "Duane Baker",
+        "Text": "Charts In #AngularJS Using #WebAPI by @sourabh_mishra1 via @CsharpCorner https://t.co/WuVDEeqtJR #JavaScript\u2026 https://t.co/eH0PeYG5GL",
+        "ScreenName": "@DBaker007"
+    },
+    {
+        "Id": 60,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/417546451669905408/LfZ-FwGe_normal.jpeg",
+        "ProfileDescription": "Entrepreneur, Software Craftsman, Role Play Gamer, Music Addict, Basket-Ball Fan and Poker Player.",
+        "Username": "Fabian Vilers",
+        "Text": "What is the overhead of creating a new HttpClient per call in a #WebAPI client? https://t.co/YoDlb5h5GC",
+        "ScreenName": "@fvilers"
+    },
+    {
+        "Id": 61,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/805006806934323200/KxEGjbqo_normal.jpg",
+        "ProfileDescription": "#Innovation #VR #IoT #AI #BigData #Cloud #StartUP #SocialMedia |Top50 #datasecurity #M2M #Blockchain #SMM #ITSM #Connected Home influencer #InsurTech|#i4Emploi",
+        "Username": "ArkangelScrap",
+        "Text": "RT @DBaker007: #WebAPI With #AngularJS by @SibeeshVenu via @CsharpCorner https://t.co/gCzm1ryjlA #MVC #CRUD #CsharpCorner https://t.co/RQ9h\u2026",
+        "ScreenName": "@ArkangelScrap"
+    },
+    {
+        "Id": 62,
+        "ProfileImage": "https://pbs.twimg.com/profile_images/613317207121006593/fBJIw92n_normal.jpg",
+        "ProfileDescription": "IT Consultant #IT #bigdata #analytics #cloud #edtech #K12 #IoT #datagov #MDM #datascience\nTweets are my opinions, not the official position of my employer.",
+        "Username": "Duane Baker",
+        "Text": "#WebAPI With #AngularJS by @SibeeshVenu via @CsharpCorner https://t.co/gCzm1ryjlA #MVC #CRUD #CsharpCorner https://t.co/RQ9hu7MBmJ",
+        "ScreenName": "@DBaker007"
+    }
+]

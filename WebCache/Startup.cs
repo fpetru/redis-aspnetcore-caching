@@ -32,6 +32,7 @@ namespace WebCache
                 options.InstanceName = "Sample";
                 options.Configuration = "localhost";
             });
+
             services.AddSession();
             services.AddMvc();
         }
@@ -39,7 +40,25 @@ namespace WebCache
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions()
+            {
+                OnPrepareResponse = context =>
+                    {
+                        string path = context.File.PhysicalPath;
+                        if (path.EndsWith(".css") || path.EndsWith(".js") 
+                            || path.EndsWith(".gif") || path.EndsWith(".jpg") 
+                            || path.EndsWith(".png") || path.EndsWith(".svg")
+                            || path.EndsWith(".ico"))
+                        {
+                            context.Context.Response.Headers["Cache-Control"] =
+                                            "private, max-age=43200";
+
+                            context.Context.Response.Headers["Expires"] =
+                                    DateTime.UtcNow.AddHours(12).ToString("R");
+                        }
+                    }
+            });
+
             app.UseSession();
 
             app.UseMvc(routes =>
